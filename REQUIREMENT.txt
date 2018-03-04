@@ -1,0 +1,14 @@
+﻿pandas_datareader 
+openpyxl 
+pandas 
+sklearn
+numpy
+seaborn 
+matplotlib 
+statsmodels.formula.api 
+bs4 
+requests
+textblob 
+    
+
+
